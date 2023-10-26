@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "ResumeUsingQuarto"
+  title: "Resume"
   navbar:
     left:
       - href: index.qmd
