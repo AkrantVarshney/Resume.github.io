@@ -4,6 +4,6 @@ title: "About"
 
 About this site
 
-```{r}
-1 + 1
-```
+This is made to represent the quarto application to the frontend side of the webpage.\
+\
+More features will be added to the website as the development progresses.
