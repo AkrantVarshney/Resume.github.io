@@ -1,0 +1,205 @@
+---
+title: <center><em>Akrant Varshney</em></center>
+---
+
+<div>
+
+::: columns
+::: {.column width="40%"}
+```{=html}
+<pre>
+Address
+Unit 29, 838 East 9th Street,
+Tucson, USA
+</pre>
+```
+:::
+
+::: {.column width="60%"}
+```{=html}
+<pre style="text-align:right">
+<em>
+Contact Info:
+Mob No.: +1 5204012348
+Email Id:<a href="mailto:gmail.com">akrant.varshney25@gmail.com</a>
+<em>
+</pre>
+```
+:::
+:::
+
+<hr>
+
+</hr>
+
+</div>
+
+## Education Background
+
++------------+--------------------------------------------------+-------------------------------------------------------------------------+----------------------+
+| Year       | Cources                                          | University                                                              | Grades/Scores        |
++============+==================================================+=========================================================================+======================+
+| 2023-2025  | Masters in Data Science                          | The University of Arizona, Tucson, Arizona, United States               | Yet to be calculated |
++------------+--------------------------------------------------+-------------------------------------------------------------------------+----------------------+
+| 2017- 2021 | B.Tech in Computer Science and Engineering       | Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal, Madhya Pradesh, India | 8.78                 |
+|            |                                                  |                                                                         |                      |
+|            |                                                  |                                                                         | (CGPA out of 10)     |
++------------+--------------------------------------------------+-------------------------------------------------------------------------+----------------------+
+| 2017       | All Indian Senior School Certificate Examination | St. Joseph's Co-Ed, Bhopal, Madhya Pradesh, India                       | 78.9%                |
+|            |                                                  |                                                                         |                      |
+|            |                                                  |                                                                         | (Percentage)         |
++------------+--------------------------------------------------+-------------------------------------------------------------------------+----------------------+
+| 2015       | All India Secondary School Examination           | St. Joseph's Co-Ed, Bhopal, Madhya Pradesh, India                       | 9.6                  |
+|            |                                                  |                                                                         |                      |
+|            |                                                  |                                                                         | (CGPA out of 10)     |
++------------+--------------------------------------------------+-------------------------------------------------------------------------+----------------------+
+
+## Skills & Abilities:
+
+::: columns
+::: {.column width="70%"}
+### Capgemini Pvt. Ltd.
+
+Capgemini is an MNC, headquartered in Paris, France. The company has multiple offices across the globe. I have worked as a Software Engineer for Capgemini PVT. LTD. (India Location).
+
+-   Worked on 3 projects, owned by the clients from UK, Canada and Australia.
+
+-   Have development experience on Salesforce marketing cloud.
+
+-   Involved in detail design phase, which involved reviewing the user stories.
+
+-   Experience in journey Creation.
+
+-   Responsible for creating personalised emails and dynamic contents using AMP Script
+
+-   Created Landing pages and web forms via SFMC Cloud Pages
+
+-   Worked on scheduled and file drop automations in Automation Studio
+
+-   Have experience in API package creation and connecting Postman with SFMC.
+
+-   Worked with SQL to make required changes in the Data Extensions.
+:::
+
+::: {.column width="30%"}
+```{=html}
+<pre style="text-align:right; margin-top:40px">
+<em>From July 2021 to August 2023</em>
+</pre>
+```
+:::
+:::
+
+::: columns
+::: {.column width="70%"}
+### Capgemini Pvt. Ltd.
+
+I did my internship with the Capgemini PVT. LTD.
+
+-   Did my internship in the .NET frameworks.
+
+-   Completed a project provided by the Company to create a dynamic desktop application using .NET frameworks.
+:::
+
+::: {.column width="30%"}
+```{=html}
+<pre style="text-align:right; margin-top:40px">
+<em>From January 2021 to May 2021</em>
+</pre>
+```
+:::
+:::
+
+::: columns
+::: {.column width="70%"}
+### SmartUp
+
+SmartUp is a tech start-up which hires students from college and teach them about web development and professionalism.
+
+-   Responsible for working on-front end, using HTML, CSS and JavaScript.
+
+-   Guide a team of interns in the development of LearnScript, an Android application project.
+
+-   LearnScript is a platform for learn how to code.
+
+-   The app contains videos lectures and documentation of various coding languages.
+:::
+
+::: {.column width="30%"}
+```{=html}
+<pre style="text-align:right; margin-top:40px">
+<em>From January 2021 to May 2021</em>
+</pre>
+```
+:::
+:::
+
+## Projects:
+
+### Argus
+
+ARGUS is a website that I single-handedly developed, embodying my days of hard work in the realm of photography.
+
+-   It contains the collection of clicked photos of various prime locations of India
+
+-   The website was made using HTML, CSS and JS
+
+### GLOBETROTTER
+
+Globetrotter is a web-application which automates the guide booking system
+
+-   It is made using HTML, CSS and JS for front-end
+
+-   Java was used for the back-end.
+
+-   The application will allow the remote booking of travel guides like cab booking.
+
+## Co-curricular Activities:
+
+### NGOs
+
+-   Worked with Radha Krishna Educational Society from September 2020 to May 2021
+
+-   Conduction classes for students of 10th and 12th
+
+-   Food and Cloths distribution.
+
+-   Booking online slots for Covid vaccine
+
+### NCC
+
+-   Appointed as NCC Sergeant in 2015
+
+-   Participated in Republic Day parade in Bhopal in 2015.
+
+### Miscellaneous
+
+-   Achieved \'A\' level certificate in NCC.
+
+-   Nominated as the Class Representative of student council 2017-2021
+
+-   Conducted mock interview for computer science branch in year 2019-2020.
+
+-   Part of college Basket Ball and swimming teams.
+
+## Achievements:
+
+### SFMC
+
+-   Marketing Cloud Email Specialist
+
+### Swimming 
+
+-   Awarded first prize in inter school swimming competition
+
+-   Participated in inter-college swimming competition
+
+## Area of Interests:
+
+-   Blades and Guns
+
+-   Photography
+
+-   Traveling
+
+-   Swimming
