@@ -53,6 +53,6 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site\nThis is made to represent the quarto application to the frontend side of the webpage.\n\nMore features will be added to the website as the development progresses."
   }
 ]
