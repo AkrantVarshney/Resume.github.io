@@ -56,6 +56,10 @@ Email Id:<a href="mailto:gmail.com">akrant.varshney25@gmail.com</a>
 
 ## Skills & Abilities:
 
+HTML, Cascading Style Sheets (CSS), JavaScript (JS), Java, C++, Python, Data Base Management System, Salesforce Marketing Cloud, R and Python.
+
+## Career background: 
+
 ::: columns
 ::: {.column width="70%"}
 ### Capgemini Pvt. Ltd.
@@ -174,7 +178,7 @@ Globetrotter is a web-application which automates the guide booking system
 
 ### Miscellaneous
 
--   Achieved \'A\' level certificate in NCC.
+-   Achieved 'A' level certificate in NCC.
 
 -   Nominated as the Class Representative of student council 2017-2021
 
@@ -188,7 +192,7 @@ Globetrotter is a web-application which automates the guide booking system
 
 -   Marketing Cloud Email Specialist
 
-### Swimming 
+### Swimming
 
 -   Awarded first prize in inter school swimming competition
 
