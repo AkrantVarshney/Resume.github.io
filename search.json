@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "\nProjects Created till now\n",
+    "section": "",
+    "text": "The Globetrotter"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\nThis is made to represent the quarto application to the frontend side of the webpage.\n\nMore features will be added to the website as the development progresses."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "\nAkrant Varshney\n",
@@ -54,12 +68,5 @@
     "title": "\nAkrant Varshney\n",
     "section": "Area of Interests:",
     "text": "Area of Interests:\n\nBlades and Guns\nPhotography\nTraveling\nSwimming"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\nThis is made to represent the quarto application to the frontend side of the webpage.\n\nMore features will be added to the website as the development progresses."
   }
 ]
