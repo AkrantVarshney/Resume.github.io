@@ -32,7 +32,7 @@
     "href": "index.html#projects",
     "title": "\nAkrant Varshney\n",
     "section": "Projects:",
-    "text": "Projects:\n\nArgus\nARGUS is a website that I single-handedly developed, embodying my days of hard work in the realm of photography.\n\nIt contains the collection of clicked photos of various prime locations of India\nThe website was made using HTML, CSS and JS\n\n\n\nGLOBETROTTER\nGlobetrotter is a web-application which automates the guide booking system\n\nIt is made using HTML, CSS and JS for front-end\nJava was used for the back-end.\nThe application will allow the remote booking of travel guides like cab booking."
+    "text": "Projects:\n\nVisual Voyager\n“Visual Voyager” is designed to address the challenge of discovering and understanding new tourist spots without extensive research.\n\nUsing image recognition techniques, the project seeks to offer users immediate access to information about various destinations simply by presenting an image to the webcam.\nA data set was created to store the required information for the project.\nORB was used to detect features of the image in front of the webcam.\n\n\n\nArgus\nARGUS is a website that I single-handedly developed, embodying my days of hard work in the realm of photography.\n\nIt contains the collection of clicked photos of various prime locations of India\nThe website was made using HTML, CSS and JS\n\n\n\nGLOBETROTTER\nGlobetrotter is a web-application which automates the guide booking system\n\nIt is made using HTML, CSS and JS for front-end\nJava was used for the back-end.\nThe application will allow the remote booking of travel guides like cab booking."
   },
   {
     "objectID": "index.html#co-curricular-activities",
